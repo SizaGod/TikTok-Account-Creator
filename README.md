@@ -10,7 +10,7 @@ TikTok Accounts Creator is a powerful tool designed for automatic TikTok account
 - Complete Algorithms: Includes all necessary algorithms for account creation.
 - Auto E-mail Confirmation: Automatic confirmation of e-mails during registration.
 - Accepts E-mail/SMS: Supports verification via both e-mail and SMS.
-- Mobile API: Fully compatible with both Android and iOS devices.
+- Mobile API: Fully compatible with both Android and iOS devices. 
 - Works on All Devices: Cross-device functionality ensures compatibility.
 - Contact: For more information, contact [SizaGod](https://t.me/SizaGod).
 
